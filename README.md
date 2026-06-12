@@ -60,8 +60,19 @@ CatBoost Regressor
 
 ## Results
 
-* Validation R² Score: 0.9436
-* Hackerearth Public Leaderboard Score: 90.8044
+### Model Performance
+
+| Metric | Score |
+|----------|----------|
+| Validation R² Score | 0.9436 |
+| Hackerearth Public Leaderboard Score | 90.8044 |
+
+### Final Model
+
+- CatBoost Regressor
+- Iterations: 2000
+- Depth: 8
+- Learning Rate: 0.03
 
 ## Tech Stack
 
