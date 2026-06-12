@@ -85,8 +85,9 @@ CatBoost Regressor
 
 ## Key Learnings
 
-* Feature engineering for time-series and traffic datasets
-* Handling categorical variables using CatBoost
-* Traffic demand forecasting
-* Model evaluation using R² score
-* Feature importance interpretation
+- Feature engineering for spatio-temporal datasets
+- Geospatial feature extraction using Geohash
+- Traffic demand forecasting using machine learning
+- Handling categorical variables with CatBoost
+- Model evaluation using R² Score
+- Feature importance interpretation
