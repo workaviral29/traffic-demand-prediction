@@ -60,6 +60,16 @@ CatBoost Regressor
 
 ## Results
 
+## Project Outputs
+
+### Validation Performance
+
+![Validation](images/validation_score.png)
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
 ### Model Performance
 
 | Metric | Score |
